@@ -18,4 +18,4 @@ To train this Object Detection model, I took the following steps:
   -	Run Model inference on test images
 
 The colab notebook for this project can be found [here](https://github.com/Aryan625/Object-Detection/blob/main/Object_Detection_(SSD_MobileNet_V2_FPNLite_640x640).ipynb)
-or in the [google drive link](https://colab.research.google.com/drive/1rlkmqsc0_v4JLAvvoqK-yFPKNfR1lpR6?usp=sharing)
+or in this [google drive link](https://colab.research.google.com/drive/1rlkmqsc0_v4JLAvvoqK-yFPKNfR1lpR6?usp=sharing)
