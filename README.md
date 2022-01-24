@@ -1,6 +1,6 @@
 # Object-Detection (SSD MobileNet V2 FPNLite 640x640)
-In this project, I aim to train a custom Object Detection model (i.e. SSD MobileNet V2 FPNLite 640x640) using the TensorFlow 2 Object Detection API.
-The model is trained using the Kangaroo dataset available on Kaggle.
+In this project, I had trained a custom Object Detection model (i.e. SSD MobileNet V2 FPNLite 640x640) using the TensorFlow 2 Object Detection API.
+I chose this model since it provides a relatively good trade-off between performance and speed. The model was trained for 7500 epochs (achieving total loss of about 0.21 and mean AP of 0.257 on test images) using the Kangaroo dataset available on Kaggle to detect single class of object in an image. I then used TensorBoard to monitor the training job. The model was then inferred on some of the test images to detect kangaroos.
 
 To train this Object Detection model, I took the following steps:
   -	TensorFlow Object Detection API Installation
